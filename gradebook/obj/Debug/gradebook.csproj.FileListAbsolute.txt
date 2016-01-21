@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gradebook\gradebook\bin\Debug\gradebook.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gradebook\gradebook\bin\Debug\gradebook.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gradebook\gradebook\bin\Debug\gradebook.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gradebook\gradebook\obj\Debug\gradebook.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gradebook\gradebook\obj\Debug\gradebook.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gradebook\gradebook\obj\Debug\gradebook.pdb
